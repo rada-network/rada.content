@@ -173,7 +173,7 @@ Using a warm, friendly tone and offering specific suggestions for contributions 
 
 ** Example: ** Team, News, Partner...etc
 
-Therefore, to be able to contribute and synchronize data between [rada.network](http://rada.network) and rada.content, the directory structure and database synchronization is crucial. Here we will structure the rada.content archive into folders where each folder will be a collection.
+Therefore, to be able to contribute and synchronize data between [rada.network](#http://rada.network) and rada.content, the directory structure and database synchronization is crucial. Here we will structure the rada.content archive into folders where each folder will be a collection.
 
 Here for now we will only be interested in the main collections News, Tokens ..
 <img width="573" alt="Screen_Shot_2021-10-03_at_3 10 10" src="https://user-images.githubusercontent.com/74130487/135745255-24fa2146-0120-47e8-9648-795e98a905af.png">
@@ -187,8 +187,11 @@ In each sub-folder, there are 2 files that are en.md and vi.md, which are 2 arti
 **3.2. Structure of file:**
 
 Title: xxx
+
 Slug: xxxxx (This is the url of the article on rada.network)
+
 Tokens: xxxx
+
 Description: xxxx
 
 
