@@ -169,6 +169,7 @@ Using a warm, friendly tone and offering specific suggestions for contributions 
 ## 3. Structure of Rada content
 
 **3.1. Structure of database**
+
 [Rada.network] (http://Rada.network) is structured by database in each collection that we can understand each collection as a tab or an element in the rada network.
 
 ** Example: ** Team, News, Partner...etc
