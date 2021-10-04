@@ -1,5 +1,5 @@
 
-# Github-Guide-Contribute-to-earn
+# Github Guide Contribute to earn
 
 # Table of Contents
 **[1. How to contribute to Github Project](#How-to-contribute-to-Github-Project)**
@@ -8,9 +8,17 @@
 
 **[3. Structure of Rada content](#Structure-of-Rada-content)**
 
+# What is [RADA](https://rada.network/)? 
+RADA is a Blockchain investment community operating on the DAO model. Rada.Network is the platform where all Raders operations are run. Rada.Network 1.0 will be the first MVP release of Rada.
 
+## What does Rada Investment Platform include?
+Project: Rada will feature potential projects, projects that RADA decides to invest in
 
+Rader: Content submitted by Raders
 
+News: The latest important news on the market
+
+Video: content under video format 
 
 ## 1. How to contribute to Github Project
 
