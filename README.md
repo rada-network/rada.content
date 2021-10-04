@@ -4,7 +4,7 @@
 # Table of Contents
 **[1. How to contribute to Github Project](#How-to-contribute-to-Github-Project)**
 
-**[2. Hơw to contribute to Rada content](#Hơw-to-contribute-to-Rada-content)**
+**[2. How to contribute to Rada content](#Hơw-to-contribute-to-Rada-content)**
 
 **[3. Structure of Rada content](#Structure-of-Rada-content)**
 
@@ -50,7 +50,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```aa
-git clone https://github.com/this-is-you/Github-Guide-Contribute-to-earn.git
+git clone https://github.com/this-is-you/rada.content.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
@@ -59,7 +59,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd Github-Guide-Contribute-to-earn
+cd rada.content
 ```
 
 Now create a branch using the `git checkout` command:
@@ -187,6 +187,7 @@ In each sub-folder, there are 2 files that are en.md and vi.md, which are 2 arti
 
 **3.2. Structure of file:**
 
+ ``` 
 Title: xxx
 
 Slug: xxxxx (This is the url of the article on rada.network)
@@ -194,7 +195,7 @@ Slug: xxxxx (This is the url of the article on rada.network)
 Tokens: xxxx
 
 Description: xxxx
-
+ ``` 
 
 **3.3. How to contribute to Rada content**
 
