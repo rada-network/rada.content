@@ -135,7 +135,18 @@ Nhu cầu tiêu dùng các token trong game được đưa vào khéo léo thôn
 - **Token standard:** BEP 20
 - **Token type:** Utility token
 - **Total supply:** 10,000,000,000 FIWA
-- **Fiwa token được sử dụng:**+ Mint Warrior mới - FIWA được sử dụng là 1 token bắt buộc để mint 1 Warrior.+ Swap & Liquidity - Trong tất cả Liquidity poll sẽ có token Fiwa+ Phần thưởng và các lợi ích - Nhận thưởng trong các sự kiện+ Mua bán tại marketplace - được dùng để mua bán các tài sản NFT+ Governance - Quản trị hệ sinh thái, tham gia biểu quyết+ IGO - Tham gia các dự án gọi vốn với FIWA
+- **Fiwa token được sử dụng:**
++ Mint Warrior mới - FIWA được sử dụng là 1 token bắt buộc để mint 1 Warrior.
+
++ Swap & Liquidity - Trong tất cả Liquidity poll sẽ có token Fiwa
+
++ Phần thưởng và các lợi ích - Nhận thưởng trong các sự kiện
+
++ Mua bán tại marketplace - được dùng để mua bán các tài sản NFT
+
++ Governance - Quản trị hệ sinh thái, tham gia biểu quyết
+
++ IGO - Tham gia các dự án gọi vốn với FIWA
 
 **5.2 $CWIG token**
 
@@ -158,9 +169,60 @@ Lịch phát hành Fiwa
 
 ![https://gql.dhunt.io/media/assets/9a935647-d521-4bb4-b10b-725e0963fdb8?width=1080](https://gql.dhunt.io/media/assets/9a935647-d521-4bb4-b10b-725e0963fdb8?width=1080)
 
-**2018:** Ý tưởng và Phong cách+ Bắt đầu phát triển ý tưởng và khái niệm+ Phong cách nghệ thuật+ Nghiên cứu chuỗi khối để thiết kế một chuỗi khối cho trò chơi**Q3 - 2021:** Bán Token & MVP+ Tháng 7: Kế hoạch bán token+ AirDrop # 1,2,3 ...+ Vòng Seed+ Vòng chiến lược+ Tháng 8: IDO & Niêm yết trên CEX+ Ra mắt toàn cầu+ Phiên bản MVP+ MVP 1 (Farming)+ MVP 2 (Single Match, NFT Market)**Q4 - 2021:** Phiên bản đầy đủ+ Phát triển sản phẩm: Championship+ Phát triển sản phẩm: IGO (Initial Game Offering)+ Phát triển sản phẩm: Cho vay có tài sản đảm bảo+ Sự phát triển cộng đồng và sự kiện toàn cầu**2022:** Gameplay thế hệ tiếp theo+ Phát triển lối chơi cho nhân vật hiện tại+ Blockchain để phát triển và phát hành trò chơi**+ Phân cấp:**--- Cộng đồng đóng góp trò chơi--- Mã thông báo quản trị**2023:** Trò chơi Blockchain+ Hệ sinh thái trò chơi Blockchain toàn cầu+ Chơi trò chơi chéo, hoán đổi vật phẩm, hoán đổi nhân vật ...
+**2018:** Ý tưởng và Phong cách
+
++ Bắt đầu phát triển ý tưởng và khái niệm
+
++ Phong cách nghệ thuật
+
++ Nghiên cứu chuỗi khối để thiết kế một chuỗi khối cho trò chơi
+
+**Q3 - 2021:** Bán Token & MVP
+
++ Tháng 7: Kế hoạch bán token+ AirDrop # 1,2,3 ...
+
++ Vòng Seed
+
++ Vòng chiến lược
+
++ Tháng 8: IDO & Niêm yết trên CEX
+
++ Ra mắt toàn cầu
+
++ Phiên bản MVP+ MVP 1 (Farming)
+
++ MVP 2 (Single Match, NFT Market)
+
+**Q4 - 2021:** Phiên bản đầy đủ
+
++ Phát triển sản phẩm: Championship
+
++ Phát triển sản phẩm: IGO (Initial Game Offering)
+
++ Phát triển sản phẩm: Cho vay có tài sản đảm bảo
+
++ Sự phát triển cộng đồng và sự kiện toàn cầu
+
+**2022:** Gameplay thế hệ tiếp theo
+
++ Phát triển lối chơi cho nhân vật hiện tại
+
++ Blockchain để phát triển và phát hành trò chơi
+
+**+ Phân cấp:**
+
+--- Cộng đồng đóng góp trò chơi
+
+--- Mã thông báo quản trị
+
+**2023:** Trò chơi Blockchain
+
++ Hệ sinh thái trò chơi Blockchain toàn cầu
+
++ Chơi trò chơi chéo, hoán đổi vật phẩm, hoán đổi nhân vật ...
 
 Hiện dự án đang bám sát roadmap
+
 
 ## **7. Đối tác và Các nhà đầu tư**
 
