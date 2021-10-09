@@ -124,7 +124,7 @@ Sau trận chiến, các Hero của bạn sẽ giảm thể lực và cần th�
 
 -   **Daily raid**: Sự kiện đột kích hằng ngày
 
--   Sau khi hoàn thành một chapter, những con trùm ở chapter đó sẽ được mở khóa. Hàng ngày người chơi sẽ có 1 cơ hội để tham gia đánh 1 con boss tùy thích. Cạnh tranh trực tiếp với những người chơi khác ở con boss đó để đạt được phần thưởng hấp dẫn dựa trên thành tích cá nhân.
+-   Sau khi hoàn thành một chapter, những con trùm ở chapter đó sẽ được mở khóa. Hàng ngày người chơi sẽ có 1 cơ hội để tham gia đánh 1 con boss tùy thích. Cạnh tranh trực tiếp     với những người chơi khác ở con boss đó để đạt được phần thưởng hấp dẫn dựa trên thành tích cá nhân.
 
 -   **Tower**
 
@@ -214,7 +214,7 @@ Tỷ lệ phân bổ token HER:
 
 -   **Tháng 7/2021**: Cân bằng game/ Smart contract development.
 -   **Tháng 9/2021**: Phát hành nền tảng IDO.
--   **Tháng 10/2021**:Ưu đãi NFT,lượt quay Gacha.
+-   **Tháng 10/2021**:Ưu đãi NFT,lượt quay Gacha.s
 -   **Tháng 11/2021**:Công bố game.
 -   **Tháng 12/2021**:Ra mắt chế độ Tower Conquest.
 -   **Tháng 1/2022**: Ra mắt chế độ PVP.
