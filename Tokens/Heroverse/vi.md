@@ -3,7 +3,7 @@
 
 _HeroVerse - ''blockchain hóa" thể loại game có doanh thu lớn nhất trong thị trường. Liệu đây có phải là tựa game đình đám tiếp theo của Việt Nam? Bài viết là quan điểm của tác giả Nhân Nguyễn_ _- thành viên cộng đồng RADA._
 
-## **1. Đôi nét về HeroVerse  **
+## **1. Đôi nét về HeroVerse**
 
 HeroVerse là dự án game tiên phong trong việc đưa thể loại trò chơi di động có doanh thu cao nhất vào vũ trụ blockchain, đó là sự kết hợp của Match-3 Puzzle và RPG Strategy. Trong khoảng thời gian gần đây, Puzzle là một cái tên được nhắc đến rất nhiều trong các thể loại game di động bởi đây là thể loại tạo ra nguồn doanh thu lớn nhất. Vào năm 2020, thể loại game này mang lại lợi nhuận cho các nhà làm game lên đến 5.1 tỷ đô la, tăng trưởng 29% so với năm 2019. Theo thống kê của năm 2020, doanh thu đến từ thể loại Puzzle chiếm đến hơn 50% trong mảng game, lần lượt theo đó là Strategy là 21% và RPG với 19%. Với việc kết hợp các thể loại trò chơi di động có doanh thu cao nhất - Puzzle, RPG và Strategy, HeroVerse được kỳ vọng sẽ là một sự bùng nổ về doanh thu trong thế giới game blockchain.
 
@@ -118,34 +118,34 @@ Sau trận chiến, các Hero của bạn sẽ giảm thể lực và cần th�
 
 -   **Campaign**: Chiến dịch
 
--   Phần chơi chiến dịch được chia làm các Chapter. Người chơi sẽ phải đi lần lượt để mở phần tiếp theo.
--   Ở mỗi vùng đất là một bản đồ nhánh, hướng về phía trước. Người chơi phải vượt qua tất cả các nút để đến trùm cuối của chapter.
--   Mỗi chapter có quái vật đa dạng, những con trùm đặc biệt, nhưng kho báu hấp dẫn để người chơi khám phá.
+  -   Phần chơi chiến dịch được chia làm các Chapter. Người chơi sẽ phải đi lần lượt để mở phần tiếp theo.
+  -   Ở mỗi vùng đất là một bản đồ nhánh, hướng về phía trước. Người chơi phải vượt qua tất cả các nút để đến trùm cuối của chapter.
+  -   Mỗi chapter có quái vật đa dạng, những con trùm đặc biệt, nhưng kho báu hấp dẫn để người chơi khám phá.
 
 -   **Daily raid**: Sự kiện đột kích hằng ngày
 
--   Sau khi hoàn thành một chapter, những con trùm ở chapter đó sẽ được mở khóa. Hàng ngày người chơi sẽ có 1 cơ hội để tham gia đánh 1 con boss tùy thích. Cạnh tranh trực tiếp     với những người chơi khác ở con boss đó để đạt được phần thưởng hấp dẫn dựa trên thành tích cá nhân.
+  -   Sau khi hoàn thành một chapter, những con trùm ở chapter đó sẽ được mở khóa. Hàng ngày người chơi sẽ có 1 cơ hội để tham gia đánh 1 con boss tùy thích. Cạnh tranh trực         tiếp với những người chơi khác ở con boss đó để đạt được phần thưởng hấp dẫn dựa trên thành tích cá nhân.
 
 -   **Tower**
 
--   Tower gồm 100 tầng mà người chơi phải vượt qua.
--   Mỗi 10 tầng sẽ có 1 con Boss
--   Người chơi sẽ nhận thưởng với mỗi tầng.
--   Tower sẽ diễn ra trong 30 ngày, thay đổi và làm mới khi kết thúc.
--   Top những người chơi hoàn thành sớm nhất và nhanh nhất sẽ nhận được phần thưởng đặc biệt
+  -   Tower gồm 100 tầng mà người chơi phải vượt qua.
+  -   Mỗi 10 tầng sẽ có 1 con Boss
+  -   Người chơi sẽ nhận thưởng với mỗi tầng.
+  -   Tower sẽ diễn ra trong 30 ngày, thay đổi và làm mới khi kết thúc.
+  -   Top những người chơi hoàn thành sớm nhất và nhanh nhất sẽ nhận được phần thưởng đặc biệt
 
 -   **PvP**
 
--   Những người chơi sẽ đối đầu trực tiếp với nhau để tăng hạng trong đấu trường.
--   Mỗi mùa đấu trường sẽ diễn ra trong vòng 30 ngày
--   Phần thưởng tương ứng với mốc hạng mà bạn đạt được
+  -   Những người chơi sẽ đối đầu trực tiếp với nhau để tăng hạng trong đấu trường.
+  -   Mỗi mùa đấu trường sẽ diễn ra trong vòng 30 ngày
+  -   Phần thưởng tương ứng với mốc hạng mà bạn đạt được
 
 -   **Clan**
 
--   Thành viên clan sẽ đóng góp để nâng cấp clan.
--   Sẽ có những kỹ năng hỗ trợ sức mạnh cho toàn bộ người chơi trong clan
--   Mê cung Clan: các thành viên trong clan sẽ cùng nhau chiến đấu để mở khóa tất cả những nút trong mê cung
--   Boss Clan: Thành tích của clan sẽ là tổng thành tích của tất cả các thành viên. Cạnh tranh với các clan khác để đạt thứ hạng cao nhất
+  -   Thành viên clan sẽ đóng góp để nâng cấp clan.
+  -   Sẽ có những kỹ năng hỗ trợ sức mạnh cho toàn bộ người chơi trong clan
+  -   Mê cung Clan: các thành viên trong clan sẽ cùng nhau chiến đấu để mở khóa tất cả những nút trong mê cung
+  -   Boss Clan: Thành tích của clan sẽ là tổng thành tích của tất cả các thành viên. Cạnh tranh với các clan khác để đạt thứ hạng cao nhất
 
 ## **4. Điểm độc đáo**
 
