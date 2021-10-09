@@ -3,8 +3,7 @@
 
 _HeroVerse - ''blockchain hóa" thể loại game có doanh thu lớn nhất trong thị trường. Liệu đây có phải là tựa game đình đám tiếp theo của Việt Nam? Bài viết là quan điểm của tác giả Nhân Nguyễn_ _- thành viên cộng đồng RADA._
 
-## **1. Đôi nét về HeroVerse  
-**
+## **1. Đôi nét về HeroVerse  **
 
 HeroVerse là dự án game tiên phong trong việc đưa thể loại trò chơi di động có doanh thu cao nhất vào vũ trụ blockchain, đó là sự kết hợp của Match-3 Puzzle và RPG Strategy. Trong khoảng thời gian gần đây, Puzzle là một cái tên được nhắc đến rất nhiều trong các thể loại game di động bởi đây là thể loại tạo ra nguồn doanh thu lớn nhất. Vào năm 2020, thể loại game này mang lại lợi nhuận cho các nhà làm game lên đến 5.1 tỷ đô la, tăng trưởng 29% so với năm 2019. Theo thống kê của năm 2020, doanh thu đến từ thể loại Puzzle chiếm đến hơn 50% trong mảng game, lần lượt theo đó là Strategy là 21% và RPG với 19%. Với việc kết hợp các thể loại trò chơi di động có doanh thu cao nhất - Puzzle, RPG và Strategy, HeroVerse được kỳ vọng sẽ là một sự bùng nổ về doanh thu trong thế giới game blockchain.
 
