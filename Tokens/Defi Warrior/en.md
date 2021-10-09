@@ -1,3 +1,11 @@
+Title: DeFi Warrior - Emerging #Play2Earn Contender on #BSC
+
+Slug: defi-warrior-emerging-play-2-earn-contender-on-bsc
+
+Token: FIWA
+
+----------
+Description: 
 
 _The article is a point of view from author Alex Ace - a member of RADA Community, on DefiWarrior and its potential._
 
