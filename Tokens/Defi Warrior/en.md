@@ -5,6 +5,7 @@ Slug: defi-warrior-emerging-play-2-earn-contender-on-bsc
 Token: FIWA
 
 ----------
+
 Description: 
 
 _The article is a point of view from author Alex Ace - a member of RADA Community, on DefiWarrior and its potential._
@@ -38,15 +39,15 @@ New players are also seen on **Cardano** and especially from Vietnam, we see **T
 Across all of the _new games_ coming out on **BSC** and **Cardano** we also see them launching **NFT Marketplaces** very early, if not as the **very first thing** they do. The Marketplace currency is always in the games own currency across all the new #gamefi releases, a very important point to make and observation to always make: if the NFT Marketplace is not in the games own currency, there will be little chance of establishing the long term tokenomic balance, that is vital for the long term success of any game (or gaming company).
 
 Both **BSC** and **Cardano** offer smart contracts, side chains, and far more competitive pricing on gas, which are primary factors towards mass-market adaptation - leaving pioneers like **Axie Infinity** behind on **Ronin**, still using wrapped ETH (_$WETH_) as its marketplace currency and even with the new bridge to **Binance** for _$AXS_ and _$SLP_ to **Ronin**, and with the new staking feature for _$AXS_ there are still major challenges to deal with for the **Axie Infinity** team to bring the game back towards mass-market growth, once again.  
-  
+
 The #gamefi industry is on the verge of real mass-market adaptation, those who emerge as winners will potentially have millions of customers, who are players, who are #play2earn - will **DeFi Warrior** be one of those in the future?
 
 Out of the selection of the new players who are emerging now and are in the process of launching their first #play2earn games during Q4 2021, there seems to already be some essential differences emerging - **2 groups are splitting out**: the first group very quickly gains traction to a level around $2 USD per token while the second group seems to be doing very slow incremental growth.  
-  
+
 Digging into the **transactions** in terms of buying and selling the main **token** itself, but also looking in the **NFT contracts** and their **transactions** - and then correlating the two factors - there seems to be a _tendency_ where some of the new #gamefi games have a _tendency_ towards higher “real player transactions”.
 
 This is heavily supported also if the stake contracts are analyzed, the new games with a very high “staking” degree, where the players who buy the NFT stake them back into the game, show very strong _tendencies_ towards long-term sustainability.  
-  
+
 However, from an investor perspective of _high risk_ looking for **quick gains**, this is not the category to seek. Instead, the first group seems to attract a high percentage of crypto investors and speculators who are riding the tokens as they launch which could lead to quick gains financially, but how will a starting point of $2 impact mass-market adaptation?
 
 ## **3. Product Review**
@@ -79,11 +80,11 @@ Accessories will be divided into rarity levels: Common, Rare, Mythic, Legendary,
 NFT warriors will become game characters that can go to battle and level up their strength. When created, these NFTs initially will have the same price (_320 $FIWA_). Each NFT represents a coin and has its own characteristics (biological characteristics) similar to the strength of that coin.
 
 The first **PURE** Warriors released is of 6 different types (_BTC, BCH, LTC_ on _Planet Bitcoin_ and _ETH, UNI, BNB_ on _Planet Ethereum_) and 1000 PURE NFT Warriors of each type has been released now: creating the first 6000 Warriors (almost) that are now distributed amongst the **first player base**.  
-  
+
 Having a limited amount of PURE original warriors is all part of driving **desire**, **need** and **demand** through **scarcity**, as seen in all the world's biggest gaming successes in the last decade.  
-  
+
 As of 04/10/2021 10:00 (GMT+7) around 2-3 weeks before the actual game launches, there are _119_ out of _5889_  **NFT Warriors** only who are for sale on the Marketplace. The currency is $FIWA and the _minimum price_ is nearing 10.000 _$FIWA_ which puts the lowest-priced NFT at **$235 USD** currently (_x30_) - but more **importantly,** that means that **98% of ALL NFT**s are **staked** in-game.  
-  
+
 **Top 3 best-selling NFTs on the marketplace:**
 
 1.  199.000 $FIWA ($5000 USD)
@@ -156,13 +157,13 @@ _![Img 8395](https://gql.dhunt.io/media/assets/e15a26fb-8c76-4072-a544-46731a6c2
 
 -   **Mint new Warrior** - FIWA is used as a required token to mint a Warrior.
 -   **Swap & Liquidity** - Liquidity pools all have Fiwa tokens.  
-    
+
 -   **Rewards & Benefits** - Prizes in special events  
-    
+
 -   **Purchase on marketplace** - Using to purchase NFT assets on the exchange.  
-    
+
 -   **Governance** - Ecosystem governance and voting rights  
-    
+
 -   **IGO** - Projects raises funds in FIWA
 
 ### **$CWIG token**
@@ -191,66 +192,58 @@ CWIG has an unlimited supply. CWIG will be mined and burned periodically.
 ### **2018: Idea and Style**
 
 -   Concept and Idea Development begins
-    
+
 -   Artstyle
-    
+
 -   Blockchain research to design a blockchain for game
-    
 
 ### **Q3 - 2021: Token Sale & MVP**
 
 -   July: Sale token plan
-    
+
     -   AirDrop # 1,2,3...
-        
+
     -   Seed round
-        
+
     -   Strategic rounds
-        
-    
+
 -   August: IDO & Listing on CEX
-    
+
 -   Global launch
-    
+
 -   MVP Version
-    
+
     -   MVP 1 (Farming)
-        
+
     -   MVP 2 (Single Match, NFT market)
-        
-    
 
 ### **Q4 - 2021: Full version**
 
 -   Product development: Championship
-    
+
 -   Product development: IGO (Initial Game Offering)
-    
+
 -   Product development: Collateral loan
-    
+
 -   Community growth & Global event
-    
 
 ### **2022: Next-gen Gameplay**
 
 -   Development gameplay for the current character
-    
+
 -   Blockchain for game development & release
-    
+
 -   Decentralization:
-    
+
     -   Community contributes gameplay
-        
+
     -   Governance token
-        
-    
 
 ### **2023: Blockchain Game**
 
 -   Global Blockchain Game Ecosystem
-    
+
 -   Cross-games play, item swap, character swap...
-    
 
 ## **7. Media**
 
@@ -291,13 +284,13 @@ The team behind **DeFi Warrior** is very experienced and walks in the learned le
 The industry segment & culture in Vietnam is very strong
 
 _Mark Dao_, leads product dev with his experience from **Smart Game Studio** - a branch of **Bab Group**. _Victor Truong_, the CEO has a background with serial successful mobile game launches behind him as well, but once we look at the overall partners and backers behind **DeFi Warrior** it becomes clear that it is a serious contender.  
-  
+
 **DeFi Warrior** seems to be developed out of, or in part based on, the game “_Kick The Man”_ a previous release from the studio, and it would seem also many of the Bosses in **PvE** are also inherited from many characters in other titles from the game Studio. Having generalized experiences with characters, storytelling, marketing, etc. within the same story-universe tends to improve the chances of success, by building on earlier learned lessons.
 
 ![Photo 2021 10 08 14.42.04](https://gql.dhunt.io/media/assets/95fbfc6f-2b01-4ee0-9caf-b41d776eb048?width=1080)
 
 _$FIWA_ is very interesting, it’s almost an outlier right now, it has a very high degree of actual player-based transactions and it’s fully supported by the NFT transactions as well.  
-  
+
 **DeFi Warrior** seems to be building a real player base slowly and steadily, this could lead towards a very _sustainable long term investment_, considering where _$FIWA_ is today: if it catches up to its “colleagues” launching in the same generation (Q4 2021) of around $2 USD price level, the potential is very big.
 
 NFTs getting close to sold out on the Marketplace rising prices, 110.000 players signed up for test net game 2 weeks ago followed up by half a million sign-ups in the CoinCapMarket Airdrop competition last week, **DeFi Warrior** continues to expand its market position and the following weeks towards the #play2earn game launch will offer some very interesting insights as to the future for this project.  
